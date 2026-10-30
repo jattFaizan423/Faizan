@@ -1,58 +1,111 @@
-<h1 align="center">👋, I'm [Faizan]</h1>
-<h3 align="center">Aspiring Cloud & DevOps Engineer 🇵🇰</h3>
+<h1 align="center">Hello Dosto 👋</h1>
 
----
+<h3 align="center">AWS Cloud & DevOps Engineer 🇵🇰</h3>
 
-### 🚀 About Me
-
-I am a passionate IT student currently studying at **Virtual University, Pakistan**. I am on a journey to become a Cloud and DevOps Engineer, deeply interested in building scalable infrastructure, automating workflows, and mastering cloud technologies. I have just started my DevOps journey and I am eager to learn, build, and grow!
-
-*   🔭 Currently focusing on mastering **Cloud Computing** and **DevOps principles**.
-*   🌱 Actively learning **Linux, Git, AWS, and Docker**.
-*   👯 I’m looking to collaborate on **beginner-friendly DevOps projects** and open-source initiatives.
-*   💬 Ask me about **Linux basics, basic networking, and my learning journey**.
-*   ⚡ Fun fact: I love automating repetitive tasks to make life easier!
-
----
-
-### 🛠️ Tech Stack I'm Learning
-
-**Languages & Fundamentals**
-<p align="left"> 
-  <img src="https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AWS+Cloud+%26+DevOps+Engineer;Docker+%7C+Kubernetes+%7C+Terraform;CI%2FCD+Pipeline+Automation;Building+reliable+systems+%F0%9F%9A%80" alt="typing" />
 </p>
 
-**Cloud & DevOps**
+<p align="center">
+  <img src="https://img.shields.io/badge/Based%20in-Hyderabad%2C%20Pakistan-01411C?style=flat&logo=googlemaps&logoColor=white" alt="location" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaborate-success?style=flat" alt="collab" />
+</p>
+
+---
+
+## 🚀 About Me
+
+I'm an **AWS Cloud & DevOps Engineer** from **Hyderabad, Pakistan 🇵🇰**. I design, automate and manage **scalable, secure and fault-tolerant AWS infrastructure**, with a strong focus on **end-to-end CI/CD automation**, **containerization** and **Infrastructure as Code**.
+
+- 🔭 Working on **AWS, Docker, Kubernetes, Terraform and CI/CD pipelines**
+- ⚙️ Automating infrastructure with **Terraform & Ansible**
+- 📈 Monitoring systems with **Prometheus & Grafana**
+- 🎓 BS Computer Science, **Virtual University of Pakistan**
+- 👯 Looking to collaborate on **DevOps and open-source projects**
+- 💬 Ask me about **AWS, Linux, CI/CD and Containers**
+- ⚡ Fun fact: I love automating boring stuff
+
+---
+
+## 🛠️ Tech Stack
+
+### Cloud Platform
 <p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws" />
+  <img src="https://skillicons.dev/icons?i=aws" alt="aws" />
+</p>
+
+**Core AWS Services:** EC2 • S3 • IAM • RDS • ECS • ECR • EKS • Lambda • CodePipeline • CodeBuild • CloudFormation • CloudWatch • SNS • SQS • Auto Scaling • VPC
+
+### Containers & Orchestration
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes" alt="containers" />
+</p>
+
+### Infrastructure as Code & Automation
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=terraform,ansible" alt="iac" />
+</p>
+
+### CI/CD & Version Control
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=jenkins,gitlab,githubactions,git,github" alt="cicd" />
+</p>
+
+### OS & Scripting
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,bash" alt="os" />
+</p>
+
+### Monitoring & Collaboration
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana,jira" alt="monitoring" />
 </p>
 
 ---
 
-### 📊 My Learning Stats
+## 📊 GitHub Stats
 
-<!-- Note: To use these stats cards, replace 'your-github-username' with your actual GitHub username -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radium" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Faizan&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radium" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=Faizan&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🌐 Connect With Me
+## 🏆 GitHub Trophies
 
 <p align="center">
-<a href="https://www.linkedin.com/in/faizan-167b7936b" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:jattf505@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Faizan&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Faizan&theme=react-dark&hide_border=true" alt="Activity Graph" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/faizan-167b7936b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:jattf505@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+---
+
+<p align="center">
+  <b>💡 "Building reliable systems, one deployment at a time"</b>
 </p>
 
 <p align="center">
-  <em>"Learning the ropes of DevOps, one commit at a time!"</em>
+  <img src="https://komarev.com/ghpvc/?username=Faizan&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+  <img src="https://img.shields.io/github/followers/Faizan?label=Follow&style=social" alt="followers" />
 </p>
