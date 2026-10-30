@@ -6,11 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AWS+Cloud+%26+DevOps+Engineer;Docker+%7C+Kubernetes+%7C+Terraform;CI%2FCD+Pipeline+Automation;Building+reliable+systems+%F0%9F%9A%80" alt="typing" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Based%20in-Hyderabad%2C%20Pakistan-01411C?style=flat&logo=googlemaps&logoColor=white" alt="location" />
-  <img src="https://img.shields.io/badge/Open%20to-Collaborate-success?style=flat" alt="collab" />
-</p>
-
 ---
 
 ## 🚀 About Me
