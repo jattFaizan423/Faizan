@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-I'm an **AWS Cloud & DevOps Engineer** from **Hyderabad, Pakistan 🇵🇰**. I design, automate and manage **scalable, secure and fault-tolerant AWS infrastructure**, with a strong focus on **end-to-end CI/CD automation**, **containerization** and **Infrastructure as Code**.
+I'm an **AWS Cloud & DevOps Engineer**. I design, automate and manage **scalable, secure and fault-tolerant AWS infrastructure**, with a strong focus on **end-to-end CI/CD automation**, **containerization** and **Infrastructure as Code**.
 
 - 🔭 Working on **AWS, Docker, Kubernetes, Terraform and CI/CD pipelines**
 - ⚙️ Automating infrastructure with **Terraform & Ansible**
