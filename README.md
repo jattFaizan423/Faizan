@@ -1,6 +1,6 @@
 <h1 align="center"> Faizan </h1>
 
-<h3 align="center">AWS Cloud & DevOps Engineer 🇵🇰</h3>
+<h3 align="center"> AWS Cloud, DevOps & Platform Engineer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AWS+Cloud+%26+DevOps+Engineer;Docker+%7C+Kubernetes+%7C+Terraform;CI%2FCD+Pipeline+Automation;Building+reliable+systems+%F0%9F%9A%80" alt="typing" />
